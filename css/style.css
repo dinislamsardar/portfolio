@@ -1,0 +1,31 @@
+
+        body {
+            margin: 0;
+            padding: 0;
+        }
+
+        nav {
+            background-color: antiquewhite;
+            overflow: hidden;
+        }
+
+        img {
+            float: left;
+            height: 30px;
+            margin-top: 10px;
+            margin-left: 10px;
+        }
+
+        ul {
+            float: right;
+        }
+
+        li {
+            list-style: none;
+            display: inline-block;
+            margin-right: 10px;
+        }
+
+        .navLinkColor {
+            color: green;
+        }
